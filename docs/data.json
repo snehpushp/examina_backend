@@ -1,0 +1,898 @@
+{
+  "name": "CBSE Class 12 Biology Exam",
+  "instructions": "Please read all instructions carefully. Answer all questions in Section A. Attempt any two questions from Section B.",
+  "year": 2024,
+  "language": "English",
+  "paper_set": "A",
+  "settings": {
+    "total_time": 120,
+    "is_calculator_allowed": false,
+    "calculator_type": "normal"
+  },
+  "sections": [
+    {
+      "name": "Genetics",
+      "section_time": 50,
+      "sub_sections": [
+        {
+          "name": "Section A",
+          "questions": [
+            {
+              "question": "What is the chemical symbol for gold?",
+              "explanation": "Gold's chemical symbol is derived from its Latin name, Aurum.",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Science",
+              "knowledge_level": 12,
+              "language": "Hindi",
+              "difficulty": 0,
+              "source": "Periodic Table",
+              "passage": "",
+              "tags": [
+                "chemistry",
+                "elements"
+              ],
+              "options": [
+                {
+                  "option": "Ag",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Au",
+                  "option_order": 1,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Fe",
+                  "option_order": 2,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Hg",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 0,
+              "negative_marks": 0
+            },
+            {
+              "question": "What is the chemical symbol for Iron?",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Chemistry",
+              "knowledge_level": 10,
+              "difficulty": 1,
+              "source": "School Textbook",
+              "passage": "",
+              "tags": [
+                "chemistry",
+                "elements",
+                "periodic table"
+              ],
+              "options": [
+                {
+                  "option": "Ir",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Fe",
+                  "option_order": 1,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Au",
+                  "option_order": 2,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Al",
+                  "option_order": 3,
+                  "is_correct_option": true
+                }
+              ],
+              "positive_marks": 1,
+              "negative_marks": 0
+            },
+            {
+              "question": "What is the value of pi to two decimal places?",
+              "explanation": "Pi is a mathematical constant representing the ratio of a circle's circumference to its diameter.",
+              "question_type": "NAT",
+              "content_type": "normal",
+              "subject": "Math",
+              "knowledge_level": 12,
+              "difficulty": 1,
+              "source": "Mathematics",
+              "passage": "",
+              "tags": [
+                "constants",
+                "geometry"
+              ],
+              "answer": {
+                "start": 0,
+                "end": 0
+              },
+              "positive_marks": 0,
+              "negative_marks": 0
+            },
+            {
+              "question": "A train travels 250 km in 5 hours. What is its average speed?",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Physics",
+              "knowledge_level": 9,
+              "difficulty": 2,
+              "source": "Practice Workbook",
+              "passage": "",
+              "tags": [
+                "physics",
+                "motion",
+                "speed"
+              ],
+              "options": [
+                {
+                  "option": "10 km/hr",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "25 km/hr",
+                  "option_order": 1,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "50 km/hr",
+                  "option_order": 2,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "1250 km/hr",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 2,
+              "negative_marks": 0
+            }
+          ]
+        },
+        {
+          "name": "Section B",
+          "questions": [
+            {
+              "question": "According to the passage, what were two main causes of World War I?",
+              "explanation": "The passage discusses the complex factors leading to the war, including nationalism, imperialism, and alliances.",
+              "question_type": "MSQ",
+              "content_type": "passage",
+              "subject": "History",
+              "knowledge_level": 12,
+              "difficulty": 2,
+              "source": "History Textbook",
+              "passage": "The outbreak of World War I in 1914 was a culmination of complex factors that had been brewing for decades. Rising nationalism, imperialism, and a complex web of alliances created a volatile situation in Europe. The assassination of Archduke Franz Ferdinand of Austria-Hungary served as the immediate trigger for the war, but the underlying causes were far deeper.",
+              "tags": [
+                "world war i",
+                "causes",
+                "europe"
+              ],
+              "options": [
+                {
+                  "option": "Nationalism",
+                  "option_order": 0,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Economic depression",
+                  "option_order": 1,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Imperialism",
+                  "option_order": 2,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Religious conflicts",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 0,
+              "negative_marks": 0
+            },
+            {
+              "question": "What is the main conflict faced by the protagonist in the passage?",
+              "explanation": "The passage likely describes a character's internal or external struggles.",
+              "question_type": "MCQ",
+              "content_type": "passage",
+              "subject": "Literature",
+              "knowledge_level": 12,
+              "difficulty": 1,
+              "source": "Novel Excerpt",
+              "passage": "Torn between her duty to her family and her own desires, Elizabeth Bennet found herself at a crossroads. Society expected her to marry well, securing her family's future, but her heart yearned for a love based on respect and understanding, not just social standing.",
+              "tags": [
+                "conflict",
+                "character",
+                "literature"
+              ],
+              "answer": {
+                "start": 0,
+                "end": 0
+              },
+              "options": [
+                {
+                  "option": "Financial difficulties",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Societal expectations vs. personal desires",
+                  "option_order": 1,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Political turmoil",
+                  "option_order": 2,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Natural disaster",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 0,
+              "negative_marks": 0
+            },
+            {
+              "question": "A train travels 250 km in 5 hours. What is its average speed?",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Physics",
+              "knowledge_level": 9,
+              "difficulty": 2,
+              "source": "Practice Workbook",
+              "passage": "",
+              "tags": [
+                "physics",
+                "motion",
+                "speed"
+              ],
+              "options": [
+                {
+                  "option": "10 km/hr",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "25 km/hr",
+                  "option_order": 1,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "50 km/hr",
+                  "option_order": 2,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "1250 km/hr",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 2,
+              "negative_marks": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Botany",
+      "section_time": 70,
+      "sub_sections": [
+        {
+          "name": "Section C",
+          "questions": [
+            {
+              "question": "What is the capital of France?",
+              "explanation": "Paris is the capital and most populous city of France.",
+              "question_type": "NAT",
+              "content_type": "normal",
+              "subject": "Geography",
+              "knowledge_level": 12,
+              "difficulty": 0,
+              "source": "World Geography",
+              "passage": "",
+              "tags": [
+                "capital cities",
+                "europe"
+              ],
+              "answer": {
+                "start": 0,
+                "end": 0
+              },
+              "positive_marks": 0,
+              "negative_marks": 0
+            },
+            {
+              "question": "What is the chemical symbol for Iron?",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Chemistry",
+              "knowledge_level": 10,
+              "difficulty": 1,
+              "source": "School Textbook",
+              "passage": "",
+              "tags": [
+                "chemistry",
+                "elements",
+                "periodic table"
+              ],
+              "options": [
+                {
+                  "option": "Ir",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Fe",
+                  "option_order": 1,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "Au",
+                  "option_order": 2,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "Al",
+                  "option_order": 3,
+                  "is_correct_option": true
+                }
+              ],
+              "positive_marks": 1,
+              "negative_marks": 0
+            },
+            {
+              "question": "A train travels 250 km in 5 hours. What is its average speed?",
+              "question_type": "MCQ",
+              "content_type": "normal",
+              "subject": "Physics",
+              "knowledge_level": 9,
+              "difficulty": 2,
+              "source": "Practice Workbook",
+              "passage": "",
+              "tags": [
+                "physics",
+                "motion",
+                "speed"
+              ],
+              "options": [
+                {
+                  "option": "10 km/hr",
+                  "option_order": 0,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "25 km/hr",
+                  "option_order": 1,
+                  "is_correct_option": false
+                },
+                {
+                  "option": "50 km/hr",
+                  "option_order": 2,
+                  "is_correct_option": true
+                },
+                {
+                  "option": "1250 km/hr",
+                  "option_order": 3,
+                  "is_correct_option": false
+                }
+              ],
+              "positive_marks": 2,
+              "negative_marks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exam_sample": {
+    "uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "JEE Main",
+    "description": "Joint Entrance Examination Main for engineering admissions",
+    "is_active": true,
+    "created_at": "2023-12-01T10:00:00Z",
+    "updated_at": "2023-12-01T10:00:00Z"
+  },
+  "paper_sample": {
+    "uuid": "550e8400-e29b-41d4-a716-446655440001",
+    "exam_id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "JEE Main 2024 Session 1",
+    "year": 2024,
+    "paper_set": "A",
+    "status": "PUBLISHED",
+    "language": "ENGLISH",
+    "instructions": "Read all instructions carefully before starting the exam. This is a Computer Based Test (CBT). The exam duration is 3 hours. There are three sections: Physics, Chemistry, and Mathematics. Each section has 30 questions with different marking schemes.",
+    "settings": {
+      "total_time": 180,
+      "is_calculator_allowed": false,
+      "calculator_type": null,
+      "section_switching_allowed": true,
+      "review_allowed": true,
+      "partial_marking": false
+    },
+    "sections": [
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440002",
+        "name": "Physics",
+        "section_time": 60,
+        "order": 1,
+        "sub_sections": [
+          {
+            "uuid": "550e8400-e29b-41d4-a716-446655440003",
+            "name": "Mechanics",
+            "order": 1,
+            "questions": [
+              {
+                "uuid": "550e8400-e29b-41d4-a716-446655440004",
+                "question": "A ball is thrown vertically upward with initial velocity 20 m/s. Find the maximum height reached. (Take g = 10 m/s²)",
+                "explanation": "Using kinematic equation: v² = u² + 2as. At maximum height, v = 0. So, 0 = 20² - 2×10×h. Therefore, h = 400/20 = 20 m.",
+                "question_type": "MCQ",
+                "content_type": "NORMAL",
+                "subject": "Physics",
+                "knowledge_level": 12,
+                "difficulty": 500,
+                "source": "JEE Main Previous Year",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 1.0,
+                "options": [
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440005",
+                    "option": "10 m",
+                    "option_order": 1,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440006",
+                    "option": "20 m",
+                    "option_order": 2,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440007",
+                    "option": "30 m",
+                    "option_order": 3,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440008",
+                    "option": "40 m",
+                    "option_order": 4,
+                    "is_correct_option": false
+                  }
+                ],
+                "tags": ["kinematics", "projectile motion", "mechanics"]
+              },
+              {
+                "uuid": "550e8400-e29b-41d4-a716-446655440009",
+                "question": "Which of the following forces are conservative? (Select all that apply)",
+                "explanation": "Conservative forces are those for which work done is independent of path. Gravitational, electrostatic, and elastic forces are conservative.",
+                "question_type": "MSQ",
+                "content_type": "NORMAL",
+                "subject": "Physics",
+                "knowledge_level": 12,
+                "difficulty": 600,
+                "source": "Physics Textbook",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 2.0,
+                "options": [
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544000a",
+                    "option": "Gravitational force",
+                    "option_order": 1,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544000b",
+                    "option": "Friction force",
+                    "option_order": 2,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544000c",
+                    "option": "Electrostatic force",
+                    "option_order": 3,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544000d",
+                    "option": "Spring force",
+                    "option_order": 4,
+                    "is_correct_option": true
+                  }
+                ],
+                "tags": ["conservative forces", "work-energy theorem", "mechanics"]
+              },
+              {
+                "uuid": "550e8400-e29b-41d4-a716-44665544000e",
+                "question": "A particle moves in a circle of radius 5 m with constant speed 10 m/s. Find the centripetal acceleration (in m/s²).",
+                "explanation": "Centripetal acceleration = v²/r = 10²/5 = 100/5 = 20 m/s²",
+                "question_type": "NAT",
+                "content_type": "NORMAL",
+                "subject": "Physics",
+                "knowledge_level": 12,
+                "difficulty": 450,
+                "source": "JEE Main Mock Test",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 0.0,
+                "range_answer": {
+                  "start": 20,
+                  "end": 20
+                },
+                "tags": ["circular motion", "centripetal acceleration", "mechanics"]
+              }
+            ]
+          },
+          {
+            "uuid": "550e8400-e29b-41d4-a716-44665544000f",
+            "name": "Thermodynamics",
+            "order": 2,
+            "questions": [
+              {
+                "uuid": "550e8400-e29b-41d4-a716-446655440010",
+                "question": "An ideal gas undergoes an isothermal process. Which of the following remains constant?",
+                "explanation": "In an isothermal process, temperature remains constant for an ideal gas.",
+                "question_type": "MCQ",
+                "content_type": "NORMAL",
+                "subject": "Physics",
+                "knowledge_level": 12,
+                "difficulty": 400,
+                "source": "Thermodynamics Chapter",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 1.0,
+                "options": [
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440011",
+                    "option": "Pressure",
+                    "option_order": 1,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440012",
+                    "option": "Volume",
+                    "option_order": 2,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440013",
+                    "option": "Temperature",
+                    "option_order": 3,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440014",
+                    "option": "Internal energy",
+                    "option_order": 4,
+                    "is_correct_option": false
+                  }
+                ],
+                "tags": ["thermodynamics", "isothermal process", "ideal gas"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440015",
+        "name": "Chemistry",
+        "section_time": 60,
+        "order": 2,
+        "sub_sections": [
+          {
+            "uuid": "550e8400-e29b-41d4-a716-446655440016",
+            "name": "Organic Chemistry",
+            "order": 1,
+            "questions": [
+              {
+                "uuid": "550e8400-e29b-41d4-a716-446655440017",
+                "question": "What is the IUPAC name of CH₃-CH₂-CH₂-OH?",
+                "explanation": "This is a primary alcohol with 3 carbon atoms, so it's propan-1-ol.",
+                "question_type": "MCQ",
+                "content_type": "NORMAL",
+                "subject": "Chemistry",
+                "knowledge_level": 12,
+                "difficulty": 350,
+                "source": "Organic Chemistry Textbook",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 1.0,
+                "options": [
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440018",
+                    "option": "Propanol",
+                    "option_order": 1,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440019",
+                    "option": "Propan-1-ol",
+                    "option_order": 2,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544001a",
+                    "option": "Propan-2-ol",
+                    "option_order": 3,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544001b",
+                    "option": "1-Propanol",
+                    "option_order": 4,
+                    "is_correct_option": false
+                  }
+                ],
+                "tags": ["IUPAC nomenclature", "alcohols", "organic chemistry"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-44665544001c",
+        "name": "Mathematics",
+        "section_time": 60,
+        "order": 3,
+        "sub_sections": [
+          {
+            "uuid": "550e8400-e29b-41d4-a716-44665544001d",
+            "name": "Calculus",
+            "order": 1,
+            "questions": [
+              {
+                "uuid": "550e8400-e29b-41d4-a716-44665544001e",
+                "question": "Find the derivative of f(x) = x³ + 2x² - 5x + 1",
+                "explanation": "Using power rule: f'(x) = 3x² + 4x - 5",
+                "question_type": "MCQ",
+                "content_type": "NORMAL",
+                "subject": "Mathematics",
+                "knowledge_level": 12,
+                "difficulty": 300,
+                "source": "Calculus Textbook",
+                "language": "ENGLISH",
+                "positive_marks": 4.0,
+                "negative_marks": 1.0,
+                "options": [
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-44665544001f",
+                    "option": "3x² + 4x - 5",
+                    "option_order": 1,
+                    "is_correct_option": true
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440020",
+                    "option": "x² + 2x - 5",
+                    "option_order": 2,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440021",
+                    "option": "3x² + 2x - 5",
+                    "option_order": 3,
+                    "is_correct_option": false
+                  },
+                  {
+                    "uuid": "550e8400-e29b-41d4-a716-446655440022",
+                    "option": "3x + 4 - 5",
+                    "option_order": 4,
+                    "is_correct_option": false
+                  }
+                ],
+                "tags": ["differentiation", "power rule", "calculus"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "passage_based_question_sample": {
+    "uuid": "550e8400-e29b-41d4-a716-446655440023",
+    "question": "According to the passage, what is the primary advantage of renewable energy sources?",
+    "explanation": "The passage clearly states that renewable energy sources are sustainable and environmentally friendly.",
+    "question_type": "MCQ",
+    "content_type": "PASSAGE",
+    "passage": "Renewable energy sources such as solar, wind, and hydroelectric power have gained significant attention in recent years due to their potential to address climate change and energy security concerns. Unlike fossil fuels, renewable energy sources are sustainable and do not produce harmful greenhouse gas emissions during operation. Solar panels convert sunlight directly into electricity, wind turbines harness the kinetic energy of moving air, and hydroelectric plants utilize the flow of water to generate power. These technologies not only help reduce our carbon footprint but also provide energy independence and long-term economic benefits.",
+    "subject": "Environmental Science",
+    "knowledge_level": 11,
+    "difficulty": 400,
+    "source": "Environmental Studies Textbook",
+    "language": "ENGLISH",
+    "positive_marks": 3.0,
+    "negative_marks": 1.0,
+    "options": [
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440024",
+        "option": "They are cheaper to install",
+        "option_order": 1,
+        "is_correct_option": false
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440025",
+        "option": "They are sustainable and environmentally friendly",
+        "option_order": 2,
+        "is_correct_option": true
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440026",
+        "option": "They produce more energy than fossil fuels",
+        "option_order": 3,
+        "is_correct_option": false
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440027",
+        "option": "They require less maintenance",
+        "option_order": 4,
+        "is_correct_option": false
+      }
+    ],
+    "tags": ["renewable energy", "sustainability", "environment"]
+  },
+  "bulk_question_creation_sample": [
+    {
+      "question": "What is the capital of India?",
+      "explanation": "New Delhi is the capital city of India.",
+      "question_type": "MCQ",
+      "content_type": "NORMAL",
+      "subject": "Geography",
+      "language": "ENGLISH",
+      "knowledge_level": 5,
+      "difficulty": 200,
+      "source": "Geography Textbook",
+      "tags": ["capitals", "India", "geography"],
+      "options": [
+        {"option": "Mumbai", "is_correct_option": false},
+        {"option": "New Delhi", "is_correct_option": true},
+        {"option": "Kolkata", "is_correct_option": false},
+        {"option": "Chennai", "is_correct_option": false}
+      ]
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 15",
+      "explanation": "2x = 15 - 5 = 10, therefore x = 5",
+      "question_type": "NAT",
+      "content_type": "NORMAL",
+      "subject": "Mathematics",
+      "language": "ENGLISH",
+      "knowledge_level": 8,
+      "difficulty": 250,
+      "source": "Algebra Workbook",
+      "tags": ["linear equations", "algebra"],
+      "start": 5,
+      "end": 5
+    },
+    {
+      "question": "Which of the following are prime numbers less than 10?",
+      "explanation": "Prime numbers less than 10 are: 2, 3, 5, 7",
+      "question_type": "MSQ",
+      "content_type": "NORMAL",
+      "subject": "Mathematics",
+      "language": "ENGLISH",
+      "knowledge_level": 6,
+      "difficulty": 300,
+      "source": "Number Theory",
+      "tags": ["prime numbers", "number theory"],
+      "options": [
+        {"option": "2", "is_correct_option": true},
+        {"option": "3", "is_correct_option": true},
+        {"option": "4", "is_correct_option": false},
+        {"option": "5", "is_correct_option": true},
+        {"option": "6", "is_correct_option": false},
+        {"option": "7", "is_correct_option": true}
+      ]
+    }
+  ],
+  "api_response_samples": {
+    "exam_list_response": [
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440000",
+        "name": "JEE Main",
+        "is_active": true
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440001",
+        "name": "NEET",
+        "is_active": true
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440002",
+        "name": "GATE",
+        "is_active": false
+      }
+    ],
+    "paper_list_response": [
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440003",
+        "name": "JEE Main 2024 Session 1"
+      },
+      {
+        "uuid": "550e8400-e29b-41d4-a716-446655440004",
+        "name": "JEE Main 2024 Session 2"
+      }
+    ],
+    "error_response": {
+      "error": {
+        "code": "VALIDATION_ERROR",
+        "message": "Request validation failed",
+        "details": [
+          {
+            "field": "question_type",
+            "message": "Invalid question type. Must be one of: MCQ, MSQ, NAT"
+          }
+        ]
+      },
+      "timestamp": "2023-12-01T15:45:30Z",
+      "path": "/api/v1/questions/create"
+    }
+  },
+  "template_settings_sample": {
+    "name": "JEE Main Pattern",
+    "settings": {
+      "total_time": 180,
+      "is_calculator_allowed": false,
+      "calculator_type": null,
+      "section_switching_allowed": true,
+      "review_allowed": true,
+      "partial_marking": false,
+      "negative_marking_enabled": true,
+      "auto_submit": true,
+      "question_palette": true,
+      "section_wise_time_limit": true
+    },
+    "instructions": "1. The exam duration is 3 hours (180 minutes).\n2. There are three sections: Physics, Chemistry, and Mathematics.\n3. Each section contains 30 questions.\n4. For MCQ questions: +4 for correct answer, -1 for incorrect answer.\n5. For MSQ questions: +4 for correct answer, -2 for partially correct, -2 for incorrect.\n6. For NAT questions: +4 for correct answer, 0 for incorrect answer.\n7. You can switch between sections during the exam.\n8. Use the question palette to navigate between questions.\n9. Review your answers before final submission."
+  },
+  "subjects_sample": [
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440100",
+      "name": "Physics",
+      "is_deleted": false
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440101",
+      "name": "Chemistry",
+      "is_deleted": false
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440102",
+      "name": "Mathematics",
+      "is_deleted": false
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440103",
+      "name": "Biology",
+      "is_deleted": false
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440104",
+      "name": "Geography",
+      "is_deleted": false
+    }
+  ],
+  "languages_sample": [
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440200",
+      "name": "ENGLISH"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440201",
+      "name": "HINDI"
+    }
+  ]
+}
