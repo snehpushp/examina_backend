@@ -148,3 +148,4 @@ app/configs
 .idea/
 /logs/
 /template_settings/
+/app/config/.env
